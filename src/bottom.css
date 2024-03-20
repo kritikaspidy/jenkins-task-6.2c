@@ -1,0 +1,20 @@
+.bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottom p{
+    padding: 10px 50px;
+}
+
+.bottom input{
+    margin: 10px 10px;
+    padding: 10px;
+    border-radius: 23px;
+    width: 40%;
+}
+
+.bottom button{
+    border-radius: 20px;
+    padding: 10px 20px;
+}
