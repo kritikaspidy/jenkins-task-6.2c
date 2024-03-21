@@ -4,7 +4,7 @@ const Mid_section2  = () => {
     return(
         <div className="middle">
             <p>
-                See all tutorials
+                Tutorials
             </p>
         </div>
     );
